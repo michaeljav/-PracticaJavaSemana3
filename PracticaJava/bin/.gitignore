@@ -1,4 +1,2 @@
-/Ejecutable.class
-/Pelicula.class
-/Serie.class
-/Visualizable.class
+/Video.class
+/IVisualizable.class

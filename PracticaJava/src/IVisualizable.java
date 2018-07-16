@@ -1,8 +1,8 @@
 import java.time.LocalTime;
 
-public interface Visualizable {
+public interface IVisualizable {
 
-	 public void marcarVisto(boolean visto);
+	 public void marcarVisto();
 	 
 	 public boolean esVisto();
 	 
